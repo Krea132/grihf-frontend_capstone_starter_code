@@ -1,0 +1,15 @@
+{
+  "name": "grihf-frontend_capstone_starter_code",
+  "version": "1.0.0",
+  "description": "This is a React-based web application that allows users to search for doctors by specialty, book appointments, and access a private area to manage personal information and leave reviews about doctors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.6"
+  }
+}

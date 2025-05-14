@@ -1,0 +1,23 @@
+# node_modules (librerías instaladas con npm)
+node_modules/
+
+# archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# sistema operativo (Windows/macOS/Linux)
+.DS_Store
+Thumbs.db
+
+# VSCode configs personales (opcionales, no esenciales)
+.vscode/
+
+# producción (por si haces builds)
+dist/
+build/
+
+# archivos temporales
+*.log
+*.tmp
+*.swp
