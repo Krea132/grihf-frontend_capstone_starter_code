@@ -6,20 +6,6 @@
     margin: 0 auto;
 }
 
-/* helpers */
-.d-block{
-    display: block;
-}
-.d-flex{
-    display: flex;
-}
-.justify-content-between{
-    justify-content: space-between;
-}
-.shadow-sm{
-box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075) !important;
-}
-
 /* Buttons */
 .btn1 a{
     border: 1px solid #E80320;
